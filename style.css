@@ -19,3 +19,8 @@ header {
   width: 20px;
   margin: 10px;
 }
+nav {
+  display: flex;
+  gap: 20px;
+  margin-left: auto;
+}
